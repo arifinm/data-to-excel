@@ -2,7 +2,7 @@
     "name": "arifinm/yii2-data-to-excel",
     "description": "Array Data to Excel for PHP Yii2",
     "type": "library",
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {
     	"php": ">= 5.6"
     },
